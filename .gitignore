@@ -1,0 +1,9 @@
+SmartBraceletEmbed/*.mxproject
+SmartBraceletEmbed/Drivers
+SmartBraceletEmbed/SmartBraceletEmbed.gpdsc
+SmartBraceletEmbed/SmartBraceletEmbed.ioc
+SmartBraceletEmbed/Inc
+SmartBraceletEmbed/SmartBraceletEmbed
+Doc
+SmartBraceletPython/.idea
+SmartBraceletPython/__pycache__
